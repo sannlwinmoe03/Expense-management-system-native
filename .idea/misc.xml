@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UOG Final/Mobile/@Submit file/CW1/SannLwinMoe_001273806_CW1/MExpense_native/app/src/main/res/layout/activity_json_upload.xml" value="0.25" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable-anydpi/ic_edit.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable-hdpi/ic_delete.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/add_ic.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/delete_ic.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/edit_ic.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/search.xml" value="0.1" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/search_ic.xml" value="0.1" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/drawable/view_ic.xml" value="0.3275" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_add_expense.xml" value="0.33" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_json_upload.xml" value="0.15" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_test.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_trip_list.xml" value="0.289544235924933" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/activity_update.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/expanse_update.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/trip_list_layout.xml" value="0.5" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/layout/update.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/RP2/MExpense_native/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable/add_ic.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable/delete_ic.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable/edit_ic.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable/ic_launcher_background.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable/search_ic.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/drawable/view_ic.xml" value="0.215" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/layout/activity_add_expense.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/layout/activity_json_upload.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/layout/activity_main.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/layout/activity_trip_list.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/layout/trip_list_layout.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/layout/update.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/MExpense_native/app/src/main/res/menu/menu.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MExpense_native</string>
+    <string name="delete_all">Delete All</string>
+    <string name="backMain">Main Menu</string>
+    <string name="search">Search</string>
+    <string name="upload">Upload</string>
+    <string name="url">https://gelivery-secure-975843425.ap-southeast-1.elb.amazonaws.com/m-expense/olympic/</string>
+    <string name="expenseUrl">https://gelivery-secure-975843425.ap-southeast-1.elb.amazonaws.com/m-expense/expense/</string>
+</resources>
